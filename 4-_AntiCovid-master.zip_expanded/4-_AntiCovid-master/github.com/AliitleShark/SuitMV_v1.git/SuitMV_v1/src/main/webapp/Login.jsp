@@ -18,7 +18,6 @@
 			</div>
 			<!--  Menu bar -->
 			<!--  Menu bar -->
-			<!--  Menu bar -->
 			
 			<div class="form-content">
 				<form action="LoginCon.do" method="post">
